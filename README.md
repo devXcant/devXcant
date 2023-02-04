@@ -92,4 +92,6 @@ Ayo'r</a></h1>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
+</div>
+
 
