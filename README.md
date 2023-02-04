@@ -4,7 +4,7 @@
 Ayo'r</a></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Nigeria+🇳;🇬Computer+Engineering+Student;FrontEnd+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Beginner;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Nigeria+🇳🇬;Computer+Engineering+Student;FrontEnd+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Beginner;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
@@ -30,20 +30,18 @@ Ayo'r</a></h1>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="#">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/devXcant">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    
-	   <a style="margin-left: 10px;" target="_blank" href="#">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="#">
+		<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="#">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		
-
+		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="#">
+		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+		<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+</div>	 
 </p>
 
 
