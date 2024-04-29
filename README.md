@@ -4,7 +4,7 @@
 Ayo'r</a></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Nigeria+🇳🇬;Computer+Engineering+Student;FrontEnd+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Beginner;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Nigeria+🇳🇬;Computer+Engineering;FrontEnd+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
@@ -18,7 +18,7 @@ Ayo'r</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **Reactjs & Gsap**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **devxcant@gmail.com**
 
@@ -29,18 +29,15 @@ Ayo'r</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="#">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ayobamidele-ogunkuade-775904246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/devXcant">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="#">
-		<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+	<a></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ayor_bhamee?igsh=NTdqa3hjMnZpanNq">
 		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="#">
+	<a style="margin-left: 10px;" target="_blank" href="https://x.com/Ayor_cortez?t=v5Zf_-bTprLH1rh4kOACcQ&s=09">
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-		<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </div>	 
 </p>
 
@@ -55,7 +52,7 @@ Ayo'r</a></h1>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AJava"><img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=python&logoColor=white"></a>
     
 
 ### 🧰 Frameworks and Libraries
@@ -63,13 +60,7 @@ Ayo'r</a></h1>
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
 </p>
 	
 
@@ -77,10 +68,10 @@ Ayo'r</a></h1>
 
 <p>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
