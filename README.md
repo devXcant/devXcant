@@ -48,9 +48,10 @@ Ayo'r</a></h1>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava">
+   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava">
   <img alt="Java" src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?logo=java&logoColor=white">
 </a>
+
 
     
 
@@ -71,7 +72,7 @@ Ayo'r</a></h1>
 
 ### 🎥 WEBGL & Animations
 <a href="#"><img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02.svg?logo=greensock&logoColor=white"></a>
-🎥
+
 
 ### 💻 Software and Tools
 
@@ -87,6 +88,10 @@ Ayo'r</a></h1>
 ### 🔨 Testing Tool
 <a> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
 </a>
+
+## 🚧 In Progress....
+<a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?logo=react&logoColor=white"></a>
+
 
 ### 👨🏽‍💻 Workspace Fun
 	
