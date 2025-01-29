@@ -14,9 +14,9 @@ Ayo'r</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Software Development**
 
-- 📫 How to reach me **devxcant@gmail.com**
+- 📫 How to reach me **devxcant@gmail.com | ayorbami17@gmail.com**
 
 
 <br/>
